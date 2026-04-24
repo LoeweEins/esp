@@ -1,0 +1,7 @@
+{
+    "idf.currentSetup": "/Users/zeenlong/.espressif/v6.0/esp-idf",
+    "idf.flashType": "JTAG",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ]
+}
