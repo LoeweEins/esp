@@ -3,5 +3,6 @@
     "idf.flashType": "JTAG",
     "idf.openOcdConfigs": [
         "board/esp32s3-builtin.cfg"
-    ]
+    ],
+    "cmake.sourceDirectory": "/Users/zeenlong/Desktop/esp/atk-test"
 }

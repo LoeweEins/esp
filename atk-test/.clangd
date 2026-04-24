@@ -1,0 +1,11 @@
+# compile_commands 来自 Xtensa GCC，含仅 GCC/工具链认得的选项。clangd 用 Clang
+# 做前端解析，需剥掉不认识的项；此文件不影响 idf.py / GCC 实际编译。
+CompileFlags:
+  Remove:
+    - -mlongcalls
+    - -specs=picolibc.specs
+    - -fno-shrink-wrap
+    - -fstrict-volatile-bitfields
+    - -fno-tree-switch-conversion
+    - -fzero-init-padding-bits=all
+    - -fno-malloc-dce

@@ -1,7 +1,7 @@
 {
     "version":            "1.3",
     "project_name":       "atk-test",
-    "project_version":    "1",
+    "project_version":    "51cf1b6-dirty",
     "project_path":       "/Users/zeenlong/Desktop/esp/atk-test",
     "idf_path":           "/Users/zeenlong/.espressif/v6.0/esp-idf",
     "build_dir":          "/Users/zeenlong/Desktop/esp/atk-test/build",

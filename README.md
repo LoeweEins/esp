@@ -6,6 +6,8 @@
 ```bash
 esp_idf
 
+## how to exit
+`ctl + ]`
 idf.py create-project --path <project name> #创建新工程
 idf.py set-target esp32s3 # 设置目标芯片
 idf.py create-component <component name> # 创建新组件
